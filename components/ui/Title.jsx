@@ -1,5 +1,5 @@
 import { View, Text , StyleSheet} from "react-native";
-import Colors from "../utils/Colors";
+import Colors from "../../utils/Colors";
 
 const Title = ({children}) => {
   return (
